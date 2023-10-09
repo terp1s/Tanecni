@@ -12,3 +12,17 @@ C:\Users\Terka\source\repos\ksp tanecni\ksp tanecni\obj\Debug\netcoreapp3.1\ksp 
 C:\Users\Terka\source\repos\ksp tanecni\ksp tanecni\obj\Debug\netcoreapp3.1\ksp tanecni.dll
 C:\Users\Terka\source\repos\ksp tanecni\ksp tanecni\obj\Debug\netcoreapp3.1\ksp tanecni.pdb
 C:\Users\Terka\source\repos\ksp tanecni\ksp tanecni\obj\Debug\netcoreapp3.1\ksp tanecni.genruntimeconfig.cache
+C:\Users\pisko\Source\Repos\terp1s\Tanecni\ksp tanecni\ksp tanecni\bin\Debug\netcoreapp3.1\ksp tanecni.exe
+C:\Users\pisko\Source\Repos\terp1s\Tanecni\ksp tanecni\ksp tanecni\bin\Debug\netcoreapp3.1\ksp tanecni.deps.json
+C:\Users\pisko\Source\Repos\terp1s\Tanecni\ksp tanecni\ksp tanecni\bin\Debug\netcoreapp3.1\ksp tanecni.runtimeconfig.json
+C:\Users\pisko\Source\Repos\terp1s\Tanecni\ksp tanecni\ksp tanecni\bin\Debug\netcoreapp3.1\ksp tanecni.runtimeconfig.dev.json
+C:\Users\pisko\Source\Repos\terp1s\Tanecni\ksp tanecni\ksp tanecni\bin\Debug\netcoreapp3.1\ksp tanecni.dll
+C:\Users\pisko\Source\Repos\terp1s\Tanecni\ksp tanecni\ksp tanecni\bin\Debug\netcoreapp3.1\ksp tanecni.pdb
+C:\Users\pisko\Source\Repos\terp1s\Tanecni\ksp tanecni\ksp tanecni\obj\Debug\netcoreapp3.1\ksp tanecni.csproj.AssemblyReference.cache
+C:\Users\pisko\Source\Repos\terp1s\Tanecni\ksp tanecni\ksp tanecni\obj\Debug\netcoreapp3.1\ksp tanecni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pisko\Source\Repos\terp1s\Tanecni\ksp tanecni\ksp tanecni\obj\Debug\netcoreapp3.1\ksp tanecni.AssemblyInfoInputs.cache
+C:\Users\pisko\Source\Repos\terp1s\Tanecni\ksp tanecni\ksp tanecni\obj\Debug\netcoreapp3.1\ksp tanecni.AssemblyInfo.cs
+C:\Users\pisko\Source\Repos\terp1s\Tanecni\ksp tanecni\ksp tanecni\obj\Debug\netcoreapp3.1\ksp tanecni.csproj.CoreCompileInputs.cache
+C:\Users\pisko\Source\Repos\terp1s\Tanecni\ksp tanecni\ksp tanecni\obj\Debug\netcoreapp3.1\ksp tanecni.dll
+C:\Users\pisko\Source\Repos\terp1s\Tanecni\ksp tanecni\ksp tanecni\obj\Debug\netcoreapp3.1\ksp tanecni.pdb
+C:\Users\pisko\Source\Repos\terp1s\Tanecni\ksp tanecni\ksp tanecni\obj\Debug\netcoreapp3.1\ksp tanecni.genruntimeconfig.cache
